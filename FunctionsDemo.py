@@ -32,4 +32,4 @@ def AddIntegars(a, b):
 
 GreetMe("Rahul Shetty")
 
-print(Agit initddIntegars(2,3))
+print(AddIntegars(2,3))

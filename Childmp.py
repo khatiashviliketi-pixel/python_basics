@@ -12,3 +12,17 @@ class ChildImp(calculator):
 
 obj = ChildImp()
 print(obj.getCompleteData())
+
+print("***********************************************")
+# ჩემი ვერსიაა და იმუშავა ამანაც
+from OopsDemo import calculator
+
+class ChildImp(calculator):
+    num2= 200
+
+    def getCompleteData(self):
+        return self.num2 + self.num + self.summation()
+
+
+obj = ChildImp(2,10)
+print(obj.getCompleteData())

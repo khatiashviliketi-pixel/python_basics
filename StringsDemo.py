@@ -1,4 +1,4 @@
-
+# string = ტექსტი ბრჭყალებში
 
 str = "RahulShettyAcademy.com"
 str1 = "Consulting firm"
